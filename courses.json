@@ -1,4 +1,4 @@
-const htmlPosts = [
+
     {
         id: 1,
         title: "HTML හැඳින්වීම (Introduction to HTML)",
@@ -2109,4 +2109,4 @@ const courses = [
     }
 ];
 
-export const coursesData = courses;
+
