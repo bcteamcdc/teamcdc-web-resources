@@ -2,15 +2,23 @@
   "courses": [
     {
       "id": "html",
-      "name": "HTML Fundamentals",
-      "description": "...",
+      "name": "HTML Fundamentals (සිංහලෙන්)",
+      "description": "Learn the basics of HTML and how to structure web pages.",
       "icon": "fab fa-html5",
       "lessons": 10,
       "duration": "5-6 hours",
       "difficulty": "Beginner",
       "posts": [
-        {"id": 1, "title": "...", "content": "..."},
-        ...
+        {
+          "id": 1,
+          "title": "HTML හැඳින්වීම (Introduction to HTML)",
+          "content": "<h2>HTML වෙත සාදරයෙන් පිළිගනිමු!</h2><p>HTML යනු HyperText Markup Language යන්නයි.</p>"
+        },
+        {
+          "id": 2,
+          "title": "HTML අංග සහ ටැග්",
+          "content": "<h2>HTML අංග තේරුම් ගැනීම</h2><p>...</p>"
+        }
       ]
     }
   ]
